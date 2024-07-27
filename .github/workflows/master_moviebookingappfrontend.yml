@@ -59,4 +59,4 @@ jobs:
           app-name: 'MoviebookingAppFrontEnd'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC91DCA24571496A8960EAF47769B0C0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_367B4E98A2CA4FFFA4F3251919710CDE }}
